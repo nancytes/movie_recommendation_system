@@ -30,18 +30,6 @@ movies('Sadako',"'Horror'" ,"'Japanese'","'NC-17'","'2019 first quarter'").
 movies('Bento Harassment',"'Drama'","'Japanese'","'PG'","'2019 second quarter'").
 movies('Makuko',"'Science'","'Japanese'","'PG'","'2019 third quarter'").
 
-movies('Gully Boy',"'Drama'","'Indian'","'PG'","'2019 first quarter'").
-movies('Kabir Singh',"'Romance'","'Indian'","'NC-17 '","'2019 second quarter'").
-movies('De De Pyaar De',"'Comedy'","'Indian'","'PG'","'2019 second quarter'").
-movies('Chhichhore',"'Comedy'","'Indian'","'PG'","'2019 third quarter'"). 
-movies('Mission Mangal',"'Drama'","'Indian'","'PG'","'2019 third quarter'").
-movies('The Zoya Factor ',"'Romance'","'Indian'","'PG'","'2019 third quarter'"). 
-movies('Article 15 ',"'Crime'","'Indian'","'PG'","'2019 second quarter'").
-movies('Section 375 ',"'Crime'","'Indian'","'PG'","'2019 third quarter'"). 
-movies('9: Nine ',"'Horror'","'Indian'","'PG'","'2019 first quarter'").
-movies('Bypass Road',"'Drama'","'Indian'","'R'","'2019 fourth quarter'").
-movies('706 ',"'Horror'","'Indian'","'R'","'2019 first quarter'").
-movies('Ghost ',"'Horror'","'Indian'","'R'","'2019 fourth quarter'").
 
 movies('Extreme Job',"'Action'","'Korean'","'R'","'2019 second quarter'").
 movies('The Gangster, the Cop, the Devil',"'Action'","'Korean'","'PG'","'2019 second quarter'").
